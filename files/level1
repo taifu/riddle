@@ -2,24 +2,25 @@
 <head> 
   <title>Level 1</title> 
   <link rel="stylesheet" type="text/css" href="style.css"> 
-  <!-- All levels are written, designed and programmed by marcoberi@gmail.com -->
+  <!-- All levels were written, designed and programmed by marcoberi@gmail.com -->
 </head> 
 <body>
 Use the source, Luke!
 <!--
-        ______________
-       |        |  n  >
-       |  ___|  |  ___|
-       |     |  |o    |
-       |  ___|__|__   |
-       |    y   |    h|
-       |  ___   |     |
-       = p|     t  |  |
-       |__|________|__|
+     ______________
+    |        |  n  >
+    |  ___|  |  ___|
+    |     |  |o    |
+    |  ___|__|__   |
+    |    y   |    h|
+    |  ___   |     |
+    = p|     t  |  |
+    |__|________|__|
 
-       Easy? Isn't it?
+    Easy? Isn't it?
 
-       But try with a humongous one!
+    But try with a humongous one!
+
 -->
 </body>
 </html>
