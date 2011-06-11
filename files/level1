@@ -1,10 +1,11 @@
 <html>
+<head> 
+  <title>Level 1</title> 
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+  <!-- All levels are written, designed and programmed by marcoberi@gmail.com -->
+</head> 
 <body>
-Level 1
-
 Use the source, Luke!
-
-
 <!--
         ______________
        |        |  n  >
@@ -20,6 +21,5 @@ Use the source, Luke!
 
        But try with a humongous one!
 -->
-
 </body>
 </html>
