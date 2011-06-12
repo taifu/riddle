@@ -1,12 +1,24 @@
 <html>
-<head> 
-  <title>Level 2</title> 
-  <link rel="stylesheet" type="text/css" href="style.css"> 
+<head>
+  <title>Level 2</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
   <!-- All levels were written, designed and programmed by marcoberi@gmail.com -->
-</head> 
+</head>
 <body>
+&amp; #<br/>
+<br/>
+Nice duo!
+<!--
+    Nag a ram!
 
-
-
+      *
+    29 293
+    95 89
+    6  163
+    91 1319
+    74 79
+    72 925
+    37 1801
+-->
 </body>
 </html>
