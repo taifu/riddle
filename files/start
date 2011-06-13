@@ -1,0 +1,14 @@
+<html>
+<head> 
+  <title>EuroPython Challenge</title> 
+  <link rel="stylesheet" type="text/css" href="style.css"> 
+  <!-- All levels were written, designed and programmed by marcoberi@gmail.com -->
+</head> 
+<body>
+<h1>EuroPython Challenge</h1> 
+<p>Some Nokia P900 at stake!</p>
+<p>Send <a href="mailto:marcoberi@gmail.com">me</a> an email with each solution you found</p>
+<p>Good luck!</p>
+<p>Ready, set, <a href="level1">go</a>!</p>
+</body>
+</html>
