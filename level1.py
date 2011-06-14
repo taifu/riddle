@@ -21,7 +21,7 @@ class Maze():
                     letters.append(self.maze[y][x])
                     added = True
                 self.maze[y][x] = VISITED
-                if (self.solve(x+1, y, letters) or self.solve(x-1, y, letters) or
+                if (self.solve(x-1, y, letters) or self.solve(x+1, y, letters) or
                     self.solve(x, y+1, letters) or self.solve(x, y-1, letters)):
                     self.maze[y][x] = SOLUTION
                     return True

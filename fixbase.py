@@ -6,9 +6,13 @@ for x, line in enumerate(maze):
     line = list(line)
     for y, car in enumerate(line):
         if x > 0 and y > 0 and x % 2 == 0 and y % 2 == 0:
-            letters = UPPERCASE           
+            letters = UPPERCASE
             if car == " ":
-                letters += LOWERCASE           
+                if (
+                    (line[y - 1] == "|" and line[y + 2] == "|") or
+                    (line[y - 2] == "|" and line[y + 1] == "|")
+                    ):
+                    letters += LOWERCASE
             elif car != "!":
                 continue
             if random.randint(1, 100) > 30:
