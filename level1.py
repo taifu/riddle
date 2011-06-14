@@ -7,6 +7,7 @@ class Maze():
         self.maze = [list(x) for x in ascii_maze.splitlines()]
         self.start_y = [row.count(START) for row in self.maze].index(1)
         self.start_x = self.maze[self.start_y].index(START)
+        self.letters = []
 
     def __repr__(self):
         return "\n".join("".join(line) for line in self.maze)
@@ -21,8 +22,8 @@ class Maze():
                     letters.append(self.maze[y][x])
                     added = True
                 self.maze[y][x] = VISITED
-                if (self.solve(x-1, y, letters) or self.solve(x+1, y, letters) or
-                    self.solve(x, y+1, letters) or self.solve(x, y-1, letters)):
+                if (self.solve(x+1, y, letters) or self.solve(x, y+1, letters) or
+                    self.solve(x-1, y, letters) or self.solve(x, y-1, letters)):
                     self.maze[y][x] = SOLUTION
                     return True
                 elif added:
@@ -40,10 +41,10 @@ ASCII_MAZE = """
 | | +-+ --+ | |
 | | |       | |
 | |   +-- | | |
-| | | |   | | E
+| | | |   | | >
 |   | | | | | |
 +---+ | | | | |
-S     | | |   |
+=     | | |   |
 +-----+-+-+---+
 """
 
