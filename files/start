@@ -1,11 +1,11 @@
 <html>
 <head> 
-  <title>EuroPython Challenge</title> 
+  <title>EuroPython 2011 Challenge</title> 
   <link rel="stylesheet" type="text/css" href="style.css"> 
   <!-- All levels were written, designed and programmed by marcoberi@gmail.com -->
 </head> 
 <body>
-<h1>EuroPython Challenge</h1> 
+<h1>EuroPython 2011 Challenge</h1> 
 <h2>A Macbook and some Nokia N900 at stake!</h2>
 <p>There are three levels: the farther player wins and in the event of a tie the first wins!</p>
 <p>Send <a href="mailto:marcoberi@gmail.com">me</a> an email with each solution as soon as you find it.</p>
