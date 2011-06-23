@@ -6,11 +6,12 @@
 </head>
 <body>
 <h1>Level 1</h1>
-&amp; #<br/>
+&amp;#<br/>
 <br/>
-Nice duo!
-<!--
-    Nag a ram!
+Nice duo!<br/>
+<br/>
+ (nag a ram...)
+<pre>
 
       *
     34 281
@@ -20,6 +21,7 @@ Nice duo!
    109 1
     27 35
    951 1
--->
+
+</pre>
 </body>
 </html>
