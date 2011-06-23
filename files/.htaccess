@@ -1,2 +1,3 @@
+ErrorDocument 404 default
 DirectoryIndex start
 ForceType text/html
