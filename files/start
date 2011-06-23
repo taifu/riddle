@@ -6,9 +6,19 @@
 </head> 
 <body>
 <h1>EuroPython 2011 Challenge</h1> 
-<h2>A Macbook and some Nokia N900 at stake!</h2>
-<p>There are three levels: the farther player wins and in the event of a tie the first wins!</p>
-<p>Send <a href="mailto:marcoberi@gmail.com">me</a> an email with each solution as soon as you find it.</p>
+<h2>A Macbook and some Nokia N900s at stake!</h2>
+<p>Rules:</p>
+<ul>
+<li>there are three levels</li>
+<li>each level gives you clues to find a word</li>
+<li>the word is the next url (same domain! :-)</li>
+<li>the first who reaches the third and last word wins</li>
+<li>send an email <a href="mailto:marcoberi@gmail.com">here</a> as soon as you find each solution!</li>
+<li>you have three hours</li>
+<li>if none finds the third word, the first who find the second one wins</li>
+<li>if none finds the second word, the first who find the first one wins</li>
+<li>if none finds the first word, I win :-)</li>
+</ul>
 <p>Good luck!</p>
 <p>Ready, set, <a href="level1">go</a>!</p>
 </body>
