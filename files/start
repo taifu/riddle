@@ -7,6 +7,14 @@
 <body>
 <h1>EuroPython 2011 Challenge</h1> 
 <h2>A Macbook and some Nokia N900s at stake!</h2>
+<p><font color="red"><strong>The prizes are no more... as the winner are:</strong></font></p>
+<ul>
+<li>Radomir Dopieralski</li>
+<li>Łukasz Rekucki</li>
+<li>Tomaz Solc</li>
+<li>xtian</li>
+</ul>
+<p><font color="red">I hope you enjoyed the riddle, see you next year! :-)</font></p>
 <p>Rules:</p>
 <ul>
 <li>there are three levels</li>
@@ -17,7 +25,7 @@
 <li>you have three hours</li>
 <li>if none finds the third word, the first who find the second one wins</li>
 <li>if none finds the second word, the first who find the first one wins</li>
-<li>if none finds the first word, I win :-)</li>
+<li>if none finds the first word, I win all the prizes :-)</li>
 </ul>
 <p>Good luck!</p>
 <p>Ready, set, <a href="level1">go</a>!</p>
