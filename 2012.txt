@@ -1,0 +1,60 @@
+====================================
+Rules:
+
+Who sends more right answers to A, B, C, D & E problems wins.
+In case of draw, shortest F answer wins.
+In case of further draw, fastest to send answers wins.
+Write your answers to europythonriddle@gmail.com (but only the first set of answers is accepted, so think twice before sending them!)
+
+====================================
+Problems:
+
+A) Find the sum of the digits in the number 1000! (! -> factorial)
+
+B) Write a python program to find n-th prime number where n is the solution to A)
+Your code has to run on http://codepad.org/ (without "timeouting", send also the codepad link).
+
+C) Consider this 2*2 matrix:
+    12
+    34
+You can find in its rows these numbers: 1, 12, 2, 3, 34, 4
+Or in its columns these other numbers: 1, 13, 3, 2, 24, 4.
+Find in this matrix the biggest prime number:
+
+76727623139027569328
+98018984199349616314
+14980220736020261149
+22264739449360580447
+32377110011970291635
+73070932869609528197
+37117507327070367096
+20119958039146042521
+17483345388316019660
+41040815765288497563
+77942389663229966584
+17327887002563635621
+38561465361694003937
+68084824145720188494
+38381409562857605373
+04291410690626307877
+53720748919452180746
+72510827351217700567
+69161022147183022768
+30850961430496704166
+
+D) How many primes there are in C) matrix?
+
+E) Find the word hidden in these eight numbers:
+7*61*1376425303993093
+13*61*373*1409*6221*226799
+7*13*2293*2817996015589
+2*3*157*94819*6580195081
+3*3*36833*1772986545361
+13*21503*45821*45885527
+2*3*1447*67696219082351
+2*7*7*5997362146458649
+
+F) Solve A) with the shortest one-liner you can think of
+
+====================================
+
